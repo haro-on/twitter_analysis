@@ -8,12 +8,12 @@ First, will gather the data from a variety of sources and in a variety of format
 - The tweet image predictions, classify the breed of dog (or other object, animal, etc.) is present in each tweet according to a Convolutional Neural Networks and Image Recognition.
 - tweet json file, using Python's Tweepy library to access twitter api to qeury additinal information about user tweet then store each tweet's entire set of JSON file.  
 Second, will assess the data of its quality and tidiness, then clean it.  
-last, will do analysis and insight on some visulization  
+Last, will do some analysis and visulization on the dataset.
 
-files discrebtion:
-- wrangle_act.ipynb: Full project code can be found in this Jupyter Notebook
-- wrangle_report.pdf: Report file to describe the wrangling part of the project: 
-- act_report.pdf: Report file to communicate the findings to a non-techical audience: 
+Files discrebtion:
+- wrangle_act.ipynb: Full project code can be found in this Jupyter Notebook.
+- wrangle_report.pdf: Report file to describe the wrangling part of the project.
+- act_report.pdf: Report file to communicate the findings to a non-techical audience.
 
 
 This project is part of the Data Analyst Nanodegree Program by Udacity.
