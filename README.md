@@ -6,9 +6,9 @@ The objective of this project is to do a wrangling, analyzing and visualizing fo
 First, will gather the data from a variety of sources and in a variety of formats: 
 -  twitter_archive_enhanced file, WeRateDogs downloaded their Twitter archive and shared it exclusively for use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017.
 - The tweet image predictions, classify the breed of dog (or other object, animal, etc.) is present in each tweet according to a Convolutional Neural Networks and Image Recognition.
-- tweet json file, using Python's Tweepy library to access twitter api to qeury additinal information about user tweet then store each tweet's entire set of JSON file.
-Second, will assess the data of its quality and tidiness, then clean it.
-last, will do analysis and insight on some visulization
+- tweet json file, using Python's Tweepy library to access twitter api to qeury additinal information about user tweet then store each tweet's entire set of JSON file.  
+Second, will assess the data of its quality and tidiness, then clean it.  
+last, will do analysis and insight on some visulization  
 
 files discrebtion:
 - wrangle_act.ipynb: Full project code can be found in this Jupyter Notebook
