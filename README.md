@@ -4,7 +4,7 @@
 
 
 ## Porject Overview:
-In this project will use the dataset of Twitter user called <a href='https://twitter.com/dog_rates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor '> @dog_rates  <a/>, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
+In this project I will use the dataset of Twitter user called <a href='https://twitter.com/dog_rates?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor '> @dog_rates  <a/>, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
   
 
 The objective of this project is to do a wrangling, analyzing then visualizing a some facts of @dog_rates tweets.  
@@ -21,4 +21,4 @@ Last, will do some analysis and visulization on the dataset.
 - act_report.pdf: Report file to communicate the findings to a non-techical audience.
 
 
-This project is part of the Data Analyst Nanodegree Program by Udacity.
+
